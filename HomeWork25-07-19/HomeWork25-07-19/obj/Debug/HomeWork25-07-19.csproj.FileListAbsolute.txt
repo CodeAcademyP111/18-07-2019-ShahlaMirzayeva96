@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\HomeWork25-07-19\HomeWork25-07-19\obj\Debug\HomeWork25-07-19.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\HomeWork25-07-19\HomeWork25-07-19\obj\Debug\HomeWork25_07_19.Properties.Resources.resources
+C:\Users\Admin\source\repos\HomeWork25-07-19\HomeWork25-07-19\obj\Debug\HomeWork25-07-19.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\HomeWork25-07-19\HomeWork25-07-19\obj\Debug\HomeWork25-07-19.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HomeWork25-07-19\HomeWork25-07-19\bin\Debug\HomeWork25-07-19.exe.config
+C:\Users\Admin\source\repos\HomeWork25-07-19\HomeWork25-07-19\bin\Debug\HomeWork25-07-19.exe
+C:\Users\Admin\source\repos\HomeWork25-07-19\HomeWork25-07-19\bin\Debug\HomeWork25-07-19.pdb
+C:\Users\Admin\source\repos\HomeWork25-07-19\HomeWork25-07-19\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\HomeWork25-07-19\HomeWork25-07-19\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\HomeWork25-07-19\HomeWork25-07-19\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\HomeWork25-07-19\HomeWork25-07-19\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\HomeWork25-07-19\HomeWork25-07-19\obj\Debug\HomeWork25-07-19.csproj.CopyComplete
+C:\Users\Admin\source\repos\HomeWork25-07-19\HomeWork25-07-19\obj\Debug\HomeWork25-07-19.exe
+C:\Users\Admin\source\repos\HomeWork25-07-19\HomeWork25-07-19\obj\Debug\HomeWork25-07-19.pdb
+C:\Users\Admin\source\repos\HomeWork25-07-19\HomeWork25-07-19\obj\Debug\HomeWork25_07_19.Authors.resources
